@@ -81,9 +81,3 @@ ___
 
 # Audit scope
 
-
-[dutch-nft @ 75da0e97a1a250d7d45ee74db23b05142ae1bfea](https://github.com/Merit-Circle/dutch-nft/tree/75da0e97a1a250d7d45ee74db23b05142ae1bfea)
-- [dutch-nft/src/MeritDutchAuction.sol](dutch-nft/src/MeritDutchAuction.sol)
-- [dutch-nft/src/MeritNFT.sol](dutch-nft/src/MeritNFT.sol)
-
-
